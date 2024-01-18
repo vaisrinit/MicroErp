@@ -1,0 +1,19 @@
+.MainMaster{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+.Employees,.Items,.Plants,.Stores,.Vendors{
+    flex-basis: 200px;
+    text-align: center;
+    cursor: pointer;
+    background-color: aqua;
+    border-radius: 20px;
+    font-size: 25px;
+}
+
+.Employees:hover,.Items:hover,.Plants:hover,.Vendors:hover,.Stores:hover{
+    background-color: red;
+    color: white;
+}
