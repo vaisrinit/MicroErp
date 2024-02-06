@@ -16,14 +16,15 @@
             <div class="Heading">
                 <i class="material-icons back">arrow_back_ios</i>
                 <h2 style="display: inline;">Add Departments</h2>
+                <span>My change</span>
             </div>
         </div>
 
         <form runat="server">
-            <label>Department ID</label>
+            <label>Department Dept ID</label>
             <input type="text" id="DepartmentIdTxt" runat="server">
             <br>
-            <label>Department Name</label>
+            <label>Department- Dept Name</label>
             <input type="text" id="DepartmentNameTxt" runat="server">
             <br>
             <input type="submit" runat="server" onserverclick="AddNewDepartment">
