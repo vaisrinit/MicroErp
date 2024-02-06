@@ -13,7 +13,7 @@
     </head>
 
     <body>
-        <h2>Welcome To LooksUp</h2>
+        <h2>Welcome To LooksUp page</h2>
         <br>
         <div class="MainHeader">
             <div class="Heading">
