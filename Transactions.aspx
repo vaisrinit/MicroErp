@@ -16,21 +16,22 @@
         <div class="MainHeader">
             <div class="Heading">
                 <i class="material-icons back">arrow_back_ios</i>
-                <h2 style="display: inline;">Transactions</h2>
+                <h2 style="display: inline;">Transactions Page</h2>
             </div>
         </div>
+        <h1>Hello</h1>
         <div class="TransactionMain">
             <div class="PurchaseOrder">
-                <p>Purchase Order</p>
+                <p>PurchaseOrder</p>
             </div>
             <div class="GoodsReceipt">
-                <p>Goods Receipt Notes</p>
+                <p>Receipt Notes</p>
             </div>
             <div class="GoodsInspection">
-                <p>Goods Inspection Notes</p>
+                <p>Inspection Notes</p>
             </div>
             <div class="GoodsIssue">
-                <p>Goods Issue Notes</p>
+                <p>Issue Notes</p>
             </div>
             <div class="Invoice">
                 <p>Invoice</p>
