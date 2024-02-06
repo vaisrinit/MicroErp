@@ -18,6 +18,7 @@
                 <h2 style="display: inline;">Transactions Page</h2>
             </div>
         </div>
+        <h1>Hello</h1>
         <div class="TransactionMain">
             <div class="PurchaseOrder">
                 <p>PurchaseOrder</p>
