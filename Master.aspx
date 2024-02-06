@@ -19,6 +19,7 @@
                 <h2 style="display: inline;">Masters</h2>
             </div>
         </div>
+        <h6>THIS IS ONE HEADING</h6>
         <div class="MainMaster">
             <div class="Employees">
                 <p>Employees</p>
@@ -35,6 +36,9 @@
             <div class="Vendors">
                 <p>Vendors</p>
             </div>
+        </div>
+        <div>
+            Tis tag is opened by Nithish
         </div>
     </body>
 
