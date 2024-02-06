@@ -7,7 +7,6 @@
         <script src="Scripts/HomePage.js"></script>
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <link rel="stylesheet" href="Styles/HomePage.css">
-        <title>Home Page</title>
     </head>
 
     <body>
