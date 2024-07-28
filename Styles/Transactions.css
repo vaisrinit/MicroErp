@@ -1,0 +1,21 @@
+.TransactionMain{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+.PurchaseOrder,.GoodsReceipt,.GoodsInspection,.GoodsIssue,.Invoice{
+    flex-basis: 200px;
+    text-align: center;
+    cursor: pointer;
+    background-color: aqua;
+    border-radius: 20px;
+    font-size: 25px;
+    transition: background-color 0.25s;
+    
+}
+
+.PurchaseOrder:hover,.GoodsReceipt:hover,.GoodsInspection:hover,.GoodsIssue:hover,.Invoice:hover{
+    background-color: red;
+    color: white;
+}

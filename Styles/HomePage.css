@@ -1,0 +1,23 @@
+.MainHome{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+.Lookups,.Masters,.Transactions,.Logout{
+    flex-basis: 200px;
+    text-align: center;
+    cursor: pointer;
+    background-color: aqua;
+    border-radius: 20px;
+    font-size: 25px;
+    transition: background-color 0.25s;
+}
+
+.Lookups:hover,.Masters:hover,.Transactions:hover,.Logout:hover{
+    background-color: red;
+    color: white;
+}
+.Lookups:active,.Masters:active,.Transactions:active,.Logout:active{
+    opacity:0.5;
+}
